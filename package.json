@@ -1,0 +1,17 @@
+{
+  "name": "03BasesNode",
+  "version": "0.0.1",
+  "description": "Es un simple generador de tablad de multiplicar con un archivo de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "base3": "node app --base=3"
+  },
+  "author": "Jose Ricardo Mendoza Castañeda",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  }
+}
