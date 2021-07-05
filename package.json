@@ -1,5 +1,5 @@
 {
-  "name": "03BasesNode",
+  "name": "BasesNode",
   "version": "0.0.1",
   "description": "Es un simple generador de tablad de multiplicar con un archivo de texto",
   "main": "app.js",
